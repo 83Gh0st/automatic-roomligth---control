@@ -41,7 +41,7 @@ The repository contains the following files:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/automatic-room-light-control.git
+git clone https://github.com/83Gh0st/automatic-roomligth---control
 cd automatic-room-light--control
 ```
 
